@@ -1,1 +1,1 @@
-# Wave-packet simulation (Phononpy+GPUMD)
+# Wave-packet Simulation (Phononpy + GPUMD)
